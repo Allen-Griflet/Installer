@@ -10,7 +10,7 @@ LicenseFile=Ralpha\readme.txt
 AppCopyright=readme.txt
 UninstallDisplayIcon={app}\Ralpha\Ralpha.exe
 DisableWelcomePage=no
-PrivilegesRequired=admin
+PrivilegesRequired=lowest
 
 [Languages]
 Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
