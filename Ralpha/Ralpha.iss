@@ -8,7 +8,7 @@ Compression=none
 SolidCompression=no
 LicenseFile=readme.txt
 AppCopyright=readme.txt
-UninstallDisplayIcon={app}\gamedata\Ralpha.exe
+UninstallDisplayIcon={app}\Ralpha\Ralpha.exe
 DisableWelcomePage=no
 PrivilegesRequired=lowest
 
