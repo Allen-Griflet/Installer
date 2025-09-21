@@ -6,11 +6,11 @@ DefaultGroupName=Ralpha
 OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
-LicenseFile=readme.txt
+LicenseFile=Ralpha\readme.txt
 AppCopyright=readme.txt
 UninstallDisplayIcon={app}\Ralpha\Ralpha.exe
 DisableWelcomePage=no
-PrivilegesRequired=lowest
+PrivilegesRequired=admin
 
 [Languages]
 Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
@@ -31,4 +31,4 @@ Name: "{userdesktop}\Ralpha"; Filename: "{app}\Ralpha\Ralpha.exe"; Tasks: deskto
 Name: "{group}\アンインストール Ralpha"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\gamedata\Ralpha.exe"; Description: "Ralpha を起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\Ralpha\Ralpha.exe"; Description: "Ralpha を起動"; Flags: nowait postinstall skipifsilent
