@@ -7,7 +7,7 @@ DefaultGroupName=Rufus
 OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
-UninstallDisplayIcon={app}\Rufus\Rufus.exe
+UninstallDisplayIcon={app}\Rufus\Rufus*_x86.exe
 DisableWelcomePage=no
 PrivilegesRequired=admin
 
@@ -25,9 +25,9 @@ Name: "desktopicon"; Description: "デスクトップにショートカットを
 Source: "Rufus\*"; DestDir: "{app}\"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\Rufus"; Filename: "{app}\Rufus.exe"
-Name: "{commondesktop}\Rufus"; Filename: "{app}\Rufus.exe"; Tasks: desktopicon
+Name: "{group}\Rufus"; Filename: "{app}\Rufus*_x86.exe"
+Name: "{commondesktop}\Rufus"; Filename: "{app}\Rufus*_x86.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール Rufus"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\Rufus.exe"; Description: "Rufus を起動"; Flags: nowait postinstall runascurrentuser
+Filename: "{app}\Rufus*_x86.exe"; Description: "Rufus を起動"; Flags: nowait postinstall runascurrentuser
