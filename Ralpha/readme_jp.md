@@ -7,5 +7,5 @@ Ralphaの開発者様
 http://nilposoft.info/ralpha/index.html
 
 Ralpha Image Resizerのダウンロードサイト
-https://www.vector.co.jp/soft/winnt/art/se487522.html?srsltid=AfmBOoplwX_NAcFpmbCSMTSjpaK_sQ8cypUCyo5FkT59AZ3isMh1YifN
-https://forest.watch.impress.co.jp/library/software/ralpha/
+[Vector](https://www.vector.co.jp/soft/winnt/art/se487522.html?srsltid=AfmBOoplwX_NAcFpmbCSMTSjpaK_sQ8cypUCyo5FkT59AZ3isMh1YifN)
+[窓の杜](https://forest.watch.impress.co.jp/library/software/ralpha/)
