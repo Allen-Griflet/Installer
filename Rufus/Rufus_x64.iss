@@ -1,6 +1,6 @@
 [Setup]
 AppName=Rufus
-AppVersion=170111
+AppVersion=0
 DefaultDirName={pf}\Rufus
 DefaultGroupName=Rufus
 OutputBaseFilename=Setup
