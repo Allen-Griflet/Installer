@@ -1,4 +1,3 @@
-
 [Setup]
 AppName=Rufus
 AppVersion=null
