@@ -10,7 +10,7 @@ LicenseFile=Ralpha\readme.txt
 AppCopyright=readme.txt
 UninstallDisplayIcon={app}\Ralpha\Ralpha.exe
 DisableWelcomePage=no
-PrivilegesRequired=lowest
+PrivilegesRequired=admin
 
 [Languages]
 Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
@@ -23,12 +23,12 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "Ralpha\*"; DestDir: "{app}\Ralpha"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "Ralpha\*"; DestDir: "{app}\"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\Ralpha"; Filename: "{app}\Ralpha\Ralpha.exe"
-Name: "{userdesktop}\Ralpha"; Filename: "{app}\Ralpha\Ralpha.exe"; Tasks: desktopicon
+Name: "{group}\Ralpha"; Filename: "{app}\Ralpha.exe"
+Name: "{commondesktop}\Ralpha"; Filename: "{app}\Ralpha.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール Ralpha"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\Ralpha\Ralpha.exe"; Description: "Ralpha を起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\Ralpha.exe"; Description: "Ralpha を起動"; Flags: nowait postinstall runascurrentuser
