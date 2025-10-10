@@ -22,7 +22,7 @@ DisableWelcomePage=no
 PrivilegesRequired=admin
 
 [Languages]
-Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
+Name: "English"; MessagesFile: "compiler:Languages\English.isl"
 
 [Components]
 Name: "main"; Description: "ゲーム本体（必須）"; Flags: fixed
