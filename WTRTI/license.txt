@@ -1,0 +1,57 @@
+[WTRTI Installer License]
+
+本インストーラーの使用に関して、以下の条件で無償で利用することを許可します。
+
+1. 本インストーラーを使用、複製、改変、統合、公開することができます。
+2. 本インストーラーの配布は、必ず著作者が指定する[GitHubリポジトリ](https://github.com/Allen-Griflet/Alicesoft_installer)
+   を経由して行わなければなりません。直接の再配布は禁止します。(ソフトウェアの性能向上やデバッグにご協力ください。)
+3. 改変版を公開する場合も、GitHub上のリポジトリを通じて公開してください。
+4. 上記の権利を行使する際には、著作権表示および本許諾条項を
+   ソフトウェアのすべての複製または重要な部分に記載する必要があります。
+5. 本インストーラーはWTRTI様のゲームを補助するものです。
+   本インストーラーのクレームはWTRTI様になさらないでください。
+6. WTRTI様のゲーム及びソフトウェアに関しましては、
+   WTRTI様のGITHUB(https://mesofthorny.github.io/WTRTI/)を確認してください。
+7. 最後にWTRTI様への敬意をお願いします。
+
+【免責事項】
+本インストーラーは「現状のまま」提供され、明示または黙示を問わず、
+商品性、特定目的適合性、権利非侵害についての保証は一切ありません。
+本インストーラーの使用または使用不能から生じるいかなる損害についても、
+著作者または著作権者は一切の責任を負いません。
+
+本インストーラーを実行し「同意」ボタンを押した時点で、
+上記条件に同意したものとみなされます。
+
+Copyright (c) 2025 [Allen.Griflet](https://github.com/Allen-Griflet)
+
+[Inno Setup License]
+
+Except where otherwise noted, all of the documentation and software included in the Inno Setup
+package is copyrighted by Jordan Russell.
+
+Copyright (C) 1997-2025 Jordan Russell. All rights reserved.
+Portions Copyright (C) 2000-2025 Martijn Laan. All rights reserved.
+
+This software is provided "as-is," without any express or implied warranty. In no event shall the
+author be held liable for any damages arising from the use of this software.
+
+Permission is granted to anyone to use this software for any purpose, including commercial
+applications, and to alter and redistribute it, provided that the following conditions are met:
+
+1. All redistributions of source code files must retain all copyright notices that are currently in
+   place, and this list of conditions without modification.
+
+2. All redistributions in binary form must retain all occurrences of the above copyright notice and
+   web site addresses that are currently in place (for example, in the About boxes).
+
+3. The origin of this software must not be misrepresented; you must not claim that you wrote the
+   original software. If you use this software to distribute a product, an acknowledgment in the
+   product documentation would be appreciated but is not required.
+
+4. Modified versions in source or binary form must be plainly marked as such, and must not be
+   misrepresented as being the original software.
+
+
+Jordan Russell
+jr-2020 AT [jrsoftware.org](https://jrsoftware.org/)
