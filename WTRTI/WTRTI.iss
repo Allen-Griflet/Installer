@@ -2,8 +2,8 @@
 ;  Program Name : Setup.exe
 ;  File         : WTRTI.iss
 ;  Author       : Allen.Griflet(https://github.com/Allen-Griflet)
-;  Created      : 2025-10-09
-;  Last Update  : 2025-10-09
+;  Created      : 2025-10-10
+;  Last Update  : 2025-10-10
 ;  Description  : Installer script for WTRTI
 ;  License      : license.txt
 ;========================================================
