@@ -11,7 +11,7 @@
 [Setup]
 AppName=WTRTI
 AppVersion=2.3.4
-DefaultDirName={pf}\WTRTI\WTRTI
+DefaultDirName={pf}\WTRTI
 DefaultGroupName=WTRTI
 OutputBaseFilename=Setup
 Compression=none
@@ -32,12 +32,12 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "crescent\*"; DestDir: "{app}\crescent"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "WTRTI.v2.3.4_windows\*"; DestDir: "{app}\WTRTI"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\CRESCENT MOON がぁる"; Filename: "{app}\crescent\adv.exe"
-Name: "{userdesktop}\CRESCENT MOON がぁる"; Filename: "{app}\crescent\adv.exe"; Tasks: desktopicon
-Name: "{group}\アンインストール CRESCENT MOON がぁる"; Filename: "{uninstallexe}"
+Name: "{group}\WTRTI"; Filename: "{app}\WTRTI\WTRTI.exe"
+Name: "{userdesktop}\WTRTI"; Filename: "{app}\WTRTI\WTRTI.exe"; Tasks: desktopicon
+Name: "{group}\アンインストール WTRTI"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\crescent\adv.exe"; Description: "CRESCENT MOON がぁるを起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\WTRTI\WTRTI.exe"; Description: "WTRTIを起動"; Flags: nowait postinstall skipifsilent
