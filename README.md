@@ -5,7 +5,7 @@ Ralpha</br>
 https://github.com/Allen-Griflet/Installer/blob/master/Ralpha/Setup.exe</br>
 
 WTRTI</br>
-installer</br>
+Installer</br>
 https://github.com/Allen-Griflet/Installer/blob/master/WTRTI/Release/WTRTI.zip</br>
 Software</br>
 https://mesofthorny.github.io/WTRTI/</br>
