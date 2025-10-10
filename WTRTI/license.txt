@@ -25,6 +25,37 @@
 
 Copyright (c) 2025 [Allen.Griflet](https://github.com/Allen-Griflet)
 
+[WTRTI Installer License]
+
+The use of this installer is permitted free of charge under the following conditions:
+
+1. You may use, copy, modify, integrate, and publish this installer.
+
+2. Distribution of this installer must be done through the official GitHub repository
+   specified by the author.
+   Direct redistribution is prohibited. (Please help improve performance and debugging by sharing feedback through the repository.)
+
+3. If you publish a modified version, it must also be released through the GitHub repository.
+
+4. When exercising the above rights, you must include this copyright notice and license terms
+   in all copies or substantial portions of the software.
+
+5. This installer is designed solely as a support tool for WTRTI’s game.
+   Please do not direct any complaints about this installer to WTRTI.
+
+6. For information regarding WTRTI’s games and software, please refer to WTRTI’s official GitHub page:
+   https://mesofthorny.github.io/WTRTI/
+
+7. Finally, please show proper respect and appreciation to WTRTI.
+
+Disclaimer
+
+This installer is provided "as is", without any express or implied warranties,
+including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+In no event shall the author or copyright holder be liable for any damages arising from the use or inability to use this installer.
+
+By running this installer and clicking the “Agree” button, you are deemed to have accepted all of the above terms.
+
 [Inno Setup License]
 
 Except where otherwise noted, all of the documentation and software included in the Inno Setup
